@@ -12,7 +12,7 @@ const Footer: React.FC = () => {
               <div className="p-2 bg-gradient-to-r from-green-500 to-emerald-600 rounded-lg">
                 <TreePine className="h-6 w-6 text-white" />
               </div>
-              <span className="text-xl font-bold">TreeQuest</span>
+              <span className="text-xl font-bold">TreeExplorer</span>
             </div>
             <p className="text-gray-300 mb-6 max-w-md">
               Discover the world of trees through interactive stories, AI-powered identification, 
@@ -56,7 +56,7 @@ const Footer: React.FC = () => {
 
         <div className="border-t border-gray-800 mt-8 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-400 text-sm">
-            © 2025 TreeQuest. All rights reserved.
+            © 2025 TreeExplorer. All rights reserved.
           </p>
           <p className="text-gray-400 text-sm mt-2 md:mt-0">
             Made with 💚 for nature lovers everywhere
