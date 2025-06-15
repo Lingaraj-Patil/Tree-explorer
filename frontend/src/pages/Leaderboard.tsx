@@ -78,7 +78,7 @@ const Leaderboard: React.FC = () => {
           <div className="flex items-center justify-center mb-4">
             <Trophy className="h-12 w-12 text-yellow-500 mr-3" />
             <h1 className="text-4xl font-bold text-gray-900">
-              Nature Explorer{' '}
+              Tree Explorer{' '}
               <span className="bg-gradient-to-r from-green-600 to-emerald-600 bg-clip-text text-transparent">
                 Leaderboard
               </span>
