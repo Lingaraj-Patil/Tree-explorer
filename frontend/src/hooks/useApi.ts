@@ -79,7 +79,7 @@ export const useApi = () => {
     formData.append('image', image);
 
     // Make API request to backend
-    const response = await fetch('http://localhost:3000/identify', {
+    const response = await fetch('https://tree-explorer-tau.vercel.app/identify', {
       method: 'POST',
       body: formData,
     });
